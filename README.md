@@ -42,6 +42,8 @@ My biggest passion is Game Development and Data Visualization.
 ![OpenGL](	https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 ### 📑 Stats 📑
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=goralczm&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goralczm&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=goralczm&theme=tokyonight)
+
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goralczm&theme=tokyonight)
