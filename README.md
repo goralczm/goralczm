@@ -7,9 +7,9 @@ My biggest passion is Game Development and Data Visualization.
 
 ### 🎮 Check my games on 🎮
 <a href="https://reallpepe.itch.io/">![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a>
-<a href="#">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
-<a href="#">![Steam](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
-<a href="#">![Steam](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)</a>
+<a href="https://store.steampowered.com/app/2508740/Defendron">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
+<a href="https://play.google.com/store/apps/developer?id=Maciej+G%C3%B3ralczyk">![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
+<a href="#">![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)</a>
 
 ### 👩‍💻 My preferred technologies 👩‍💻
 ![Unity3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -42,6 +42,6 @@ My biggest passion is Game Development and Data Visualization.
 ![OpenGL](	https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 ### 📑 Stats 📑
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=goralczm)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=goralczm)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goralczm&theme=dark)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username})
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goralczm)
