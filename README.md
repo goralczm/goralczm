@@ -2,7 +2,7 @@
 ***
 
 ### 👋 About me 👋
-My name is Maciej, I am 20 years old computer science student, currently first year graduate.
+My name is Maciej, I am 21 years old computer science student, currently first year graduate.
 My biggest passion is Game Development and Data Visualization.
 
 ### 🎮 Check my games on 🎮
