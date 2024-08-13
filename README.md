@@ -34,8 +34,6 @@ My biggest passion is Game Development and Data Visualization.
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 📑 Stats 📑
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goralczm&theme=tokyonight)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=goralczm&theme=tokyonight)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goralczm&theme=tokyonight)
