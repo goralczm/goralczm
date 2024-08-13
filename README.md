@@ -2,7 +2,7 @@
 ***
 
 ### 👋 About me 👋
-My name is Maciej, I am 22 years old computer science student, currently seconnd year graduate.
+My name is Maciej, I am 22 years old computer science student, currently second year graduate.
 My biggest passion is Game Development and Data Visualization.
 
 ### 🎮 Check my games on 🎮
@@ -37,5 +37,3 @@ My biggest passion is Game Development and Data Visualization.
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=goralczm&theme=tokyonight)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goralczm&theme=tokyonight)
-
-![LeetCode](https://leetcode-stats-six.vercel.app/?username=goralczm&theme=dark)
