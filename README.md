@@ -2,8 +2,8 @@
 ***
 
 ### 👋 About me 👋
-My name is Maciej, I am 22 years old computer science student, currently second year graduate.
-My biggest passion is Game Development and Data Visualization.
+My name is Maciej, I am 22 years old computer science student, currently on the third year.
+My biggest passions are Game Development and Data Visualization.
 
 ### 🎮 Check my games on 🎮
 <a href="https://reallpepe.itch.io/">![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)</a>
